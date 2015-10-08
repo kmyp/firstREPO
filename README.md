@@ -1,1 +1,3 @@
 # firstREPO
+
+hello git!
